@@ -1,4 +1,4 @@
-![avatar](https://github.com/shwephuehmone25/shwephuehmone25/blob/main/developer.jpg)
+![avatar](https://github.com/shwephuehmone25/shwephuehmone/blob/main/developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Shwe Phue Hmone</h1>
 <h3 align="center">A passionate Full Stack Developer from Myanmar</h3>
