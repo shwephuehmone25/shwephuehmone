@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **shwephue7889@gmail.com**
 
-- ⚡ **I am introvert :3
-
 ## My Skill Sets
 
 <table><tr><td valign="top" width="33%">
@@ -91,3 +89,8 @@
 </div>  
 <br/>  
 </div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=shwephuehmone25)
